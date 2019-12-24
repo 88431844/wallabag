@@ -1,0 +1,7 @@
+validator:
+    password_must_match: '密码字段必须匹配。'
+    password_too_short: '密码长度至少应为8个字符'
+    password_wrong_value: '当前密码的值错误'
+    item_per_page_too_high: '这无疑会导致程序崩溃'
+    feed_limit_too_high: '这无疑会导致程序崩溃'
+    quote_length_too_high: '字符过长。 应该少于 {{ limit }} 个字符。'
